@@ -1,1 +1,0 @@
-# Treehouse-Earning-Potential-Calculator
